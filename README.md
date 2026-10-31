@@ -273,16 +273,6 @@ class DevGoel:
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/404Dev-notFound/404Dev-notFound/output/snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
-
 
 
 # Connect With Me
