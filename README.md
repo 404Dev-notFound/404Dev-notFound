@@ -273,12 +273,12 @@ class DevGoel:
 
 ---
 
-## Contribution Calendar
+## Contribution Snake
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=404Dev-notFound&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"
-    alt="Dev Goel's GitHub Contribution Graph"
+    src="https://raw.githubusercontent.com/404Dev-notFound/404Dev-notFound/output/snake.svg"
+    alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
